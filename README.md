@@ -8,3 +8,6 @@ Where to Start?
           - HTML List
           - HTML Image Elements
           - HTML Links and Anchor Tags
+     2. Intermediate HTML
+          - HTML Table
+          - HTMl Forms
