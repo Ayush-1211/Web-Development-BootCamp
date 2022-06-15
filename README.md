@@ -2,6 +2,6 @@
 Web Development BootCamp
 
 
-Where to Start?
 
+Where to Start?
   1. Introduction to HTML
