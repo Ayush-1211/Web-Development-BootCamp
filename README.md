@@ -10,4 +10,4 @@ Where to Start?
           - HTML Links and Anchor Tags
      2. Intermediate HTML
           - HTML Table
-          - HTMl Forms
+          - HTML Forms
