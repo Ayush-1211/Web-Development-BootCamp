@@ -8,6 +8,11 @@ Where to Start?
           - HTML List
           - HTML Image Elements
           - HTML Links and Anchor Tags
+          
      2. Intermediate HTML
           - HTML Table
           - HTML Forms
+     
+     3. Introduction to CSS
+          - Inline, Internal, and External CSS
+          - Slectors, Class, and IDs in CSS
