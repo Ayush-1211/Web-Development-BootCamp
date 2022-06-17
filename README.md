@@ -16,3 +16,10 @@ Where to Start?
      3. Introduction to CSS
           - Inline, Internal, and External CSS
           - Slectors, Class, and IDs in CSS
+          
+     4. Intermediate CSS
+          - HTML Div
+          - Box Model
+          - CSS Positioning (Static, Relative, Absolute, Fixed)
+          - Font Styling and Property
+          - CSS Float and Clear
