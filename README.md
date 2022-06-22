@@ -36,3 +36,20 @@ Where to Start?
           - Medial Query Breakpoints
           - Advanced CSS Combining Selectors
           - Advanced CSS Selector Priority
+          
+     6. Introduction to Javascript ES6
+          - JS Alerts
+          - Data Types
+          - JS Variables
+          - String Concatenation, Lenght, Slicing and Casing
+          - Arithmetic and Modulo Operator
+          - Functions
+          
+          
+          
+          
+          
+          
+          
+          
+          
