@@ -44,6 +44,11 @@ Where to Start?
           - String Concatenation, Lenght, Slicing and Casing
           - Arithmetic and Modulo Operator
           - Functions
+     
+     7. Intermediate Javascript
+          - Random Number
+          - Control Statements (If-Else, While Loop, For Loop)
+          - Array
           
           
           
