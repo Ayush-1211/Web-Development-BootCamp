@@ -50,6 +50,13 @@ Where to Start?
           - Control Statements (If-Else, While Loop, For Loop)
           - Array
           
+     8. Document Object Model (DOM)
+          - Adding JS to Website
+          - Selecting HTMl Elements with JS
+          - Manipulating and Changing Style of HTMl Elements with JS
+          - Text Manipulation and the Text Content Property
+          - Manipulating HTML Element Attributes
+          
           
           
           
