@@ -57,7 +57,8 @@ Where to Start?
           - Text Manipulation and the Text Content Property
           - Manipulating HTML Element Attributes
           
-          
+     9. Boss Level Challenge 1 - The Dice Game
+          - Dice Game
           
           
           
