@@ -59,6 +59,16 @@ Where to Start?
           
      9. Boss Level Challenge 1 - The Dice Game
           - Dice Game
+     
+    10. Advanced Javascript & DOM Manipulation
+          - Event Listener, Keyboard Event Listener
+          - Higher Order Functions and Passing Functions as Arguments
+          - Play Sounds on Website
+          - Switch Statements
+          - Callbacks
+          - Adding Animation to Website
+          - Drum Kit Website (Project)
+          
           
           
           
