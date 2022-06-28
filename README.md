@@ -69,7 +69,10 @@ Where to Start?
           - Adding Animation to Website
           - Drum Kit Website (Project)
           
-          
+    11. jQuery
+          - Selecting Elements with jQuery
+          - Manipulating Styles, Text, and Attributes with jQuery
+          - Adding Event Listeners, Removing Elements, Adding Elements, and Animations with jQuery
           
           
           
