@@ -74,7 +74,8 @@ Where to Start?
           - Manipulating Styles, Text, and Attributes with jQuery
           - Adding Event Listeners, Removing Elements, Adding Elements, and Animations with jQuery
           
-          
+    12. Boss Level Challenge 2 - The Simon Game
+          - Simon Game
           
           
           
