@@ -88,5 +88,14 @@ Where to Start?
           - Responding to Requests with HTML Files
           - Processing POST Requests with Body Parser
           - Calculator Web App (Simple Calculator & BMI Calculator)
+    
+    15. Application Programming Interfaces (API)
+          - API Endpoints, Paths, and Parameters
+          - API Authentication and Postman
+          - Making GET Requests with the Node HTTPS Module
+          - Parse JSON
+          - Using Express to Render a Website with Live API Data
+          - Using Body Parser to Parse POST Requests to the Server
+       
           
           
