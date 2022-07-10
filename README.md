@@ -96,6 +96,11 @@ Where to Start?
           - Parse JSON
           - Using Express to Render a Website with Live API Data
           - Using Body Parser to Parse POST Requests to the Server
-       
+    
+    16. EJS (Embedded JavaScript Templating)
+          - Creating EJS Templates
+          - Running Code Inside the EJS Template
+          - Passing Data from Webpage to Server
+          - Node Module Exports (How to Pass Functions and Data between Files)
           
           
