@@ -122,5 +122,5 @@ Where to Start?
           - Reading from your Database with Mongoose
           - Data Validation with Mongoose
           - Updating and Deleting Data Using Mongoose
-          - Establishing Realtionships and Embedding Documents using Mongoose
+          - Establishing Reltionships and Embedding Documents using Mongoose
           
