@@ -105,5 +105,22 @@ Where to Start?
           
     17. Boss Level Challenge 3 - Blog Website
           - Blog Website
+    
+    18. SQL
+          - CREATE Table and INSERT Data
+          - READ, SELECT, and WHERE Commands
+          - Updating Single Values and Adding Columns in SQL
+          - DELETE
+          - SQL Relationships, Foriegn Keys and Inner Join
           
+    19. MongoDB
+          - MongoDB CRUD Operations in the Shell 
+          - Relationships in MongoDB
+          - Working with The Native MongoDB Driver
+          
+    20. Mongoose
+          - Reading from your Database with Mongoose
+          - Data Validation with Mongoose
+          - Updating and Deleting Data Using Mongoose
+          - Establishing Realtionships and Embedding Documents using Mongoose
           
