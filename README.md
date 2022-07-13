@@ -124,3 +124,10 @@ Where to Start?
           - Updating and Deleting Data Using Mongoose
           - Establishing Reltionships and Embedding Documents using Mongoose
           
+    21. To Do List with Mongoose
+          - Rendering Database Items in the ToDo List App
+          - Adding New Items in ToDo List Database
+          - Deleting Items
+          - Creating Custom Lists using Express Route Parameters
+          - Adding and Deleting New Items to the Custom To Do Lists
+          
