@@ -133,4 +133,9 @@ Where to Start?
           
     22. Boss Level Challenge 4 - Blog Website Upgrade
           - Blog Website with Mongoose
+    
+    23. Build REST API from Scratch
+          - Creating Database with Robo 3T
+          - Chained Route Handlers Using Express
+          - GET, POST, DELETE, PUT and PATCH
           
