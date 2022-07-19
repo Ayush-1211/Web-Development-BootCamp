@@ -69,7 +69,7 @@ ReactDOM.render(
 
 
 
-// 5. Challange
+// 5. Challenge
 
 const date = new Date();
 const currentTime = date.getHours();
