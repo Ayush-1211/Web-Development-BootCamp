@@ -149,4 +149,12 @@ Where to Start?
                - Styling React Elements
                - JSX Attributes
                - Inline Styling for React Elements
+               
+          # React Components
+               - How to use React Components
+               - Javascript ES6 - Import, Export and Modules
+          
+          # Keeper App Project (Part - 1)
+          
+          # React Properties
           
