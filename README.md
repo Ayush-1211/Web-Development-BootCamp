@@ -159,3 +159,12 @@ Where to Start?
           
           # React Properties
           
+          # React Dev Tools
+               - React Developer Tools Chrome Extension
+          
+          # Mapping Components
+               - Mapping Data to Components (Map Function)
+          
+          # Emoji Pedia App
+               - https://github.com/Ayush-1211/Emoji-Pedia
+          
