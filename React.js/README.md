@@ -7,6 +7,7 @@ Where to Start?
      5. React Dev Tools
      6. Mapping Component
      7. Emoji Pedia App
-     8. Conditional Rendering
-     9. React Hooks
-    10. Get Time App
+     8. Keeper App Part - 2
+     9. Conditional Rendering
+    10. React Hooks
+    11. Get Time App
