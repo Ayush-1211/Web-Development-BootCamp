@@ -11,3 +11,9 @@ Where to Start?
      9. Conditional Rendering
     10. React Hooks
     11. Get Time App
+    12. Javascript ES6 Object & Array Destructuring
+    13. Event Handling
+    14. React Forms
+    15. Changing Complex State
+    16. Javascript ES6 Spread Operator
+    17. Managing Component Tree
