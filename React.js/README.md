@@ -15,5 +15,5 @@ Where to Start?
     13. Event Handling
     14. React Forms
     15. Changing Complex State
-    16. Javascript ES6 Spread Operator
-    17. Managing Component Tree
+    16. Javascript ES6 Spread Operator (To DO List App)
+    17. Managing Component Tree (To DO List App)
