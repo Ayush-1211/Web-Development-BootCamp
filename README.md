@@ -178,3 +178,15 @@ Where to Start?
                - useState
           
           # Get Time App
+          
+          # Javascript ES6 Object & Array Destructuring
+          
+          # Event Handling
+          
+          # React Forms
+          
+          # Changing Complex State
+          
+          # Javascript ES6 Spread Operator (To Do List App)
+          
+          # Managing Component Tree (To Do List App)
